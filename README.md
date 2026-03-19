@@ -1,6 +1,7 @@
 ## Author
 Sangram Jamdade
-/n Experienced in Linux, SQL, and Deployment Support
+
+Experienced in Linux, SQL, and Deployment Support
 
 # MyRepo1 - Sample Automation Project
 
