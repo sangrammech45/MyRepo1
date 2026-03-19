@@ -1,3 +1,6 @@
+## Author
+Sangram Jamdade
+
 # MyRepo1 - Sample Automation Project
 
 ## Overview
